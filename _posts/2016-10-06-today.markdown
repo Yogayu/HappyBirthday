@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2016-10-06"
+date:   2016-10-06 15:27:27 +0800
+---
+
+1. Reading:
+	- Sophie's World 
+2. English:
+	- TOEFL overview 
+3. Coding:
+	- Swift 3
+	- Python 
+
